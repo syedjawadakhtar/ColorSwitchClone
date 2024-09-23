@@ -9,9 +9,10 @@ Submitted by: Syed Jawad Akhtar
  2. [Mechanics](#mechanics)
  3. [HUD (Heads-Up Display)](#hud-heads-up-display)
  4. [Installation and Setup](#installation-and-setup)
- 5. [Controls](#controls)
- 6. [Future Prospects of the Project](#future-prospects-of-the-project)
- 7. [Time distribution for the assignment](#time-distribution-for-the-assignment)
+ 5. [WebGL Build](#webgl-build)
+ 6. [Controls](#controls)
+ 7. [Future Prospects of the Project](#future-prospects-of-the-project)
+ 8. [Time distribution for the assignment](#time-distribution-for-the-assignment)
 
 ### Description
 
@@ -46,7 +47,9 @@ git clone https://github.com/SyedJawadAkhtar/ColorSwitchClone.git
 - Use Unity Version 2022.3.21f to open the project.
 - Open the GameScene and press Play to run the game from the Unity Editor.
 
-### Controls
+### WebGL Build
+
+You can find the WebGL build here: [https://syedjawadakhtar.github.io/ColorSwitchClone/](https://syedjawadakhtar.github.io/ColorSwitchClone/)
  
 ### Controls
 
